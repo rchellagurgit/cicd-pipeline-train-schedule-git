@@ -1,8 +1,3 @@
 node_modules
 .gradle
-build.gradle
 dist
-gradle
-gradlew
-gradlew.bat
-settings.gradle
